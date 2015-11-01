@@ -1,6 +1,8 @@
 # LearnGit
 EXPERIMENTAL LEARNING REPO ~ SERVES NO PURPOSE ~ 
 
+Wapdi dooo
+
 
                    !IQOMQMQQQQQMQM^                                               
                                         |MMQMQMQQMMQMQMQMMMMQQMMQMQMQQQ^                                      
